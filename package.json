@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "@types/google-apps-script": "^1.0.72",
+    "vitest": "^0.34.6"
+  }
+}
