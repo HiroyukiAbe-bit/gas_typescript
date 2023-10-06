@@ -1,2 +1,12 @@
+# App Script個人情報の除外
 .clasp.json
+
+# 不要なモジュールファイルの除外
 /node_modules
+
+# IDE独自ファイルの除外
+*.iml
+*.xml
+
+# package.jsonで代用するため除外
+/package-lock.json
